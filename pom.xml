@@ -44,6 +44,11 @@
 			<artifactId>graphql-spring-boot-starter</artifactId>
 			<version>12.0.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.graphql-java-kickstart</groupId>
+			<artifactId>graphiql-spring-boot-starter</artifactId>
+			<version>11.1.0</version>
+		</dependency>
 		<!--GraphQL dependencies end-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
