@@ -7,5 +7,5 @@ type Query{
 
 input SampleRequest{
     firstName: String!
-    lastName: String！
+    lastName: String!
 }
